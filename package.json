@@ -6,8 +6,15 @@
     "react-scripts": "1.0.13"
   },
   "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "promise": "^8.0.1",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "redux": "^3.7.2",
+    "thunk": "0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
